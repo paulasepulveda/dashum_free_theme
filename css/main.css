@@ -1,0 +1,28 @@
+.header {
+	background-color: #2A396B;
+	height: 50px;
+	padding: 0px;
+}
+
+.boton {
+	color: white;
+	margin: 10px;
+}
+
+.sidebar-toggle-box {
+	color:white;
+	margin-left: 10px;
+	padding: 15px;
+}
+
+b {
+	color: white;
+	margin-top: 20px;
+}
+.nav-collapse{
+	background-color: #2A396B;
+	position: relative;
+	float: left;
+	color: white;
+}
+
