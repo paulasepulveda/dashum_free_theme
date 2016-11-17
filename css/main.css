@@ -1,8 +1,9 @@
 
 .header {
 	background-color: #2A396B;
-	height: 45px;
+	height: 55px;
 	color: white;
+	font-size: 20px;
 }
 
 .fa {
@@ -10,25 +11,47 @@
 }
 .logo {
 	color:white;
-	
-}
-.top-menu ul{
-	margin: -24px 10px;
-	font-size: 12px;
-	
 }
 
-.logout {
+.top-menu ul li a {
+	margin: -37px 25px;
+	font-size: 15px;
+	padding: 5px;
+}
+
+.btn {
 	color: white;	
-	margin: -10px 15px;
 	background-color: #C035DE;
-	border-radius: 7px;
+	height: 30px;
+	width: 90px;
+	border-style: none;
 }
 
-.nav-collapse{
+
+#sidebar {
 	background-color: #2A396B;
+	color: white;
+	padding: 5px;
 	position: relative;
 	float: left;
+}
+
+.sidebar-menu {
+	padding-left: 10px;
+}
+li, a, span.sub-menu {
+	list-style: none;
+	padding: 8px;
+	font-size: 13px;
+	color:white;
+}
+
+.botones {
+	position: relative;
+}
+
+li.sub-menu:hover{
+	background-color: #C035DE;
 	color: white;
 }
 
