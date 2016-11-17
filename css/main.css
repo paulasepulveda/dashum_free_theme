@@ -1,24 +1,30 @@
+
 .header {
 	background-color: #2A396B;
-	height: 50px;
-	padding: 0px;
-}
-
-.boton {
+	height: 45px;
 	color: white;
-	margin: 10px;
 }
 
-.sidebar-toggle-box {
+.fa {
+	margin:15px;
+}
+.logo {
 	color:white;
-	margin-left: 10px;
-	padding: 15px;
+	
+}
+.top-menu ul{
+	margin: -24px 10px;
+	font-size: 12px;
+	
 }
 
-b {
-	color: white;
-	margin-top: 20px;
+.logout {
+	color: white;	
+	margin: -10px 15px;
+	background-color: #C035DE;
+	border-radius: 7px;
 }
+
 .nav-collapse{
 	background-color: #2A396B;
 	position: relative;
